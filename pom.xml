@@ -25,16 +25,16 @@
 
     <developers>
         <developer>
-            <id>brianway</id>
-            <name>Chuyang Wei</name>
-            <email>weichuyang@163.com</email>
+            <id>warframe</id>
+            <name>JiaBin yao</name>
+            <email>18796002529@163.com</email>
         </developer>
     </developers>
 
     <scm>
-        <connection>scm:git:git@github.com:brianway/java-learning.git</connection>
-        <developerConnection>scm:git:git@github.com:brianway/java-learning.git</developerConnection>
-        <url>git@github.com:brianway/java-learning.git</url>
+        <connection>scm:git:git@github.com:WarframePrimer/java-learning.git</connection>
+        <developerConnection>scm:git:git@github.com:WarframePrimer/java-learning.git</developerConnection>
+        <url>git@github.com:WarframePrimer/java-learning.git</url>
         <tag>HEAD</tag>
     </scm>
 
